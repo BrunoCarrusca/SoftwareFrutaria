@@ -1,4 +1,4 @@
-# Software para uma Frutaria
+# Projeto Final - CESAE Digital
 
 O projeto de Análise de Dados desenvolvido tem como propósito criar um sistema 
 integrado e eficiente para a gestão e análise de dados de uma frutaria. Este programa foi 
