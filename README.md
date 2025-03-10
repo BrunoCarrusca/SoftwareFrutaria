@@ -15,3 +15,18 @@ Em suma, o projeto é uma solução inovadora que junta tecnologia e análise de
 transformar os processos internos da frutaria e posicioná-la como referência no mercado, 
 aumentando a sua produtividade e atendendo às expectativas de clientes cada vez mais 
 exigentes.
+
+As funções desse software são:
+- Registo de Utilizadores
+- Registo de Produtos
+- Gerenciamento de Utilizadores e de Produtos
+- Gestão de Stock
+- Previsão de Vendas
+- Visualização de Métricas
+- Conectado a uma base de dados, desenvolvida em MySQL
+
+Diagrama de Use Cases:
+![drawio_software_frutaria](https://github.com/user-attachments/assets/78c3615a-8fc9-4777-bc94-91ba39f01602)
+
+Diagrama de Classes:
+![diagrama_classes](https://github.com/user-attachments/assets/50b042dd-253a-47f9-91ad-7d050925cf0d)
